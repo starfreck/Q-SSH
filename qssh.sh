@@ -32,8 +32,8 @@ do
 		break
 		;;
 	3)
-		# Add your SSH commands here
-		ssh ocs2@110.227.255.58
+		# Add your SSH commands here 
+		ssh server@192.168.1.58 # (This is Demo)
 		break
 		;;
 	0)	
